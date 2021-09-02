@@ -1,0 +1,23 @@
+<html>
+  <head>
+<title>The Wheel Of Life</title>
+<style>
+  body{
+    color:Black;
+    background-image: url("https://images.unsplash.com/photo-1587888191477-e74ac6bc9c4b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1088&q=80");
+    background-size: cover;
+    text-align: center;
+  }
+  h1{
+    font-family: Times New Roman;
+  }
+  </style>
+  </head>
+  <body>
+    <h1>
+    In order for a man to choose his path in life, 
+     <br>he must first decide on his destination.
+    </h1>
+    <img src="	https://chrislocurto.com/wp-content/uploads/2011/05/zigziglar.png" alt="Zig Ziglar's Wheel Of life">
+  </body>
+</html>
